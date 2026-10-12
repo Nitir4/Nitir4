@@ -54,7 +54,7 @@ A command-line and desktop tool for managing accounts and local conversation his
 
 ## Outside code
 
-I'm a big fan of comic books, anime, music, movies and web series. My favorite comic book character is NightWing whilst my favorite fictional character is Gintoki Sakata.
+I'm a big fan of comic books, anime, music, movies and web series. My favorite comic book character is Nightwing whilst my favorite fictional character is Gintoki Sakata.
 I am also a big fan of Cosmic horror with my favorite authors being Lovecraft, Neil Gaiman and Stephen King.
 My biggest obsession is BALATRO.
 
