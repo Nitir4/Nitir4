@@ -6,11 +6,11 @@
 
 ## About me
 
-I work on desktop applications, web development and electronics, mostly in Python and C/C++. I also use JavaScript, TypeScript and MATLAB, depending on the project.
+I work on desktop applications, web development, Machine Learning and electronics, mostly in Python and C/C++. I also use JavaScript, TypeScript and MATLAB, depending on the project.
 
 My projects include machine learning for audio and clinical data, applications of linear algebra, and hardware built around ESP32s. Some started as coursework or group projects; others are tools for my own workflow. I also do occasional research experiments.
 
-Linux is my main development environment. I use Hyprland and regularly change my desktop setup, from the window manager and launchers to the themes and wallpapers.
+Linux(currently arch and fedora dual booted) is my main development environment. I use Hyprland/GNOME depending on my mood and regularly change my desktop setup.
 
 ## Current work
 
@@ -54,9 +54,9 @@ A command-line and desktop tool for managing accounts and local conversation his
 
 ## Outside code
 
-I'm a big fan of comic books, anime and movie series. I especially like Nightwing, The Sandman and cosmic horror. The banner is from Tom Taylor's Nightwing run, with art by Bruno Redondo and Adriano Lucas.
-
-I've also used Balatro cards in my desktop theme. A lot of my wallpapers and project names come from the books and games I like.
+I'm a big fan of comic books, anime, music, movies and web series. My favorite comic book character is NightWing whilst my favorite fictional character is Gintoki Sakata.
+I am also a big fan of Cosmic horror with my favorite authors being Lovecraft, Neil Gaiman and Stephen King.
+My biggest obsession is BALATRO.
 
 ## Contact
 
