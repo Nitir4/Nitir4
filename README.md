@@ -1,24 +1,27 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Ritin Sundriyal · Nitir4 — code, circuits and comics" width="100%">
+  <img src="./assets/nightwing87-banner.jpg" alt="Nightwing crossing Blüdhaven’s bridge on his motorcycle, from Nightwing #87" width="100%">
 </p>
 
-I'm Ritin. I write software, mess with ESP32s, and take my Linux desktop a little too seriously.
+<sub>Nightwing #87 · Tom Taylor, Bruno Redondo &amp; Adriano Lucas · [DC preview](https://www.dc.com/blog/2021/11/18/nightwing-87-arriving-december-21). Artwork © DC.</sub>
 
-Most of what's here is Python, C or C++: desktop apps, hardware projects, and the occasional physics experiment.
+I write software, mess with ESP32s, and take my Linux desktop a little too seriously.
+
+Most of what's here is Python, C or C++: desktop apps, hardware projects, and occasional research experiments.
 
 ### A few things I've built
 
 | Project | What's in it |
 | :--- | :--- |
-| [**Bugari**](https://github.com/Nitir4/Bugari) | A native Linux Git client, written in C with GTK4. Repos, branches, history and scheduled commits. |
+| [**BioSonic**](https://github.com/Nitir4/BioSonic3) | Species detection from audio, with a dashboard for activity across recording zones. |
+| [**Septoctor**](https://github.com/Nitir4/Septoctor) | A neonatal sepsis research project, working with clinical features and risk prediction. |
+| [**Linear Algebra Matlab**](https://github.com/Nitir4/Linear-Algebra-Matlab) | My second-semester projects: image compression, noise filtering and face recognition using PCA and SVD. |
+| [**Profligator**](https://github.com/Nitir4/Profligator) | Coding activity from multiple platforms in one profile, with duplicate problems counted once. |
 | [**Yog-Sothoth**](https://github.com/Nitir4/Yog-Sothoth) | Account switching and local conversation history for coding CLIs. The name should tell you something about my taste. |
-| [**Geometric Drawer**](https://github.com/Nitir4/geometric_drawer) | A 2D CAD app. Draw with the mouse, enter precise measurements, or script the geometry. |
 | [**ESP32 Air Drums**](https://github.com/Nitir4/ESP32-Air-Drums) | Wireless drums built with ESP32s and motion sensors. Made with friends because we were bored. |
-| [**Physics & weather**](https://github.com/Nitir4/Variational-PINNs-for-Sparse-Meteorological-Field-Reconstruction-) | An experiment asking when imperfect physics helps reconstruct weather fields from sparse observations. |
 
 ### Away from the keyboard
 
-I'm a huge nerd for comics, anime and movie series. I have a folder of **Sandman** wallpapers, a thing for **cosmic horror**, and an entire **Balatro** desktop theme. I don't really do casual interests.
+I'm a huge nerd for comics, anime and movie series. **Nightwing**, **The Sandman**, cosmic horror, and an entire **Balatro** desktop theme should give you a rough idea. I don't really do casual interests.
 
 ---
 
