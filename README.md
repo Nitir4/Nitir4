@@ -4,25 +4,60 @@
 
 <sub>Nightwing #87 · Tom Taylor, Bruno Redondo &amp; Adriano Lucas · [DC preview](https://www.dc.com/blog/2021/11/18/nightwing-87-arriving-december-21). Artwork © DC.</sub>
 
-I write software, mess with ESP32s, and take my Linux desktop a little too seriously.
+## About me
 
-Most of what's here is Python, C or C++: desktop apps, hardware projects, and occasional research experiments.
+I work on desktop applications, web development and electronics, mostly in Python and C/C++. I also use JavaScript, TypeScript and MATLAB, depending on the project.
 
-### A few things I've built
+My projects include machine learning for audio and clinical data, applications of linear algebra, and hardware built around ESP32s. Some started as coursework or group projects; others are tools for my own workflow. I also do occasional research experiments.
 
-| Project | What's in it |
-| :--- | :--- |
-| [**BioSonic**](https://github.com/Nitir4/BioSonic3) | Species detection from audio, with a dashboard for activity across recording zones. |
-| [**Septoctor**](https://github.com/Nitir4/Septoctor) | A neonatal sepsis research project, working with clinical features and risk prediction. |
-| [**Linear Algebra Matlab**](https://github.com/Nitir4/Linear-Algebra-Matlab) | My second-semester projects: image compression, noise filtering and face recognition using PCA and SVD. |
-| [**Profligator**](https://github.com/Nitir4/Profligator) | Coding activity from multiple platforms in one profile, with duplicate problems counted once. |
-| [**Yog-Sothoth**](https://github.com/Nitir4/Yog-Sothoth) | Account switching and local conversation history for coding CLIs. The name should tell you something about my taste. |
-| [**ESP32 Air Drums**](https://github.com/Nitir4/ESP32-Air-Drums) | Wireless drums built with ESP32s and motion sensors. Made with friends because we were bored. |
+Linux is my main development environment. I use Hyprland and regularly change my desktop setup, from the window manager and launchers to the themes and wallpapers.
 
-### Away from the keyboard
+## Current work
 
-I'm a huge nerd for comics, anime and movie series. **Nightwing**, **The Sandman**, cosmic horror, and an entire **Balatro** desktop theme should give you a rough idea. I don't really do casual interests.
+### [Profligator](https://github.com/Nitir4/Profligator)
 
----
+A web application that brings coding activity from multiple platforms into one profile. The main problem is duplicate counting: solving the same problem on two sites should not count as two unique problems. The project includes a candidate dashboard, profile sharing and a browser extension for finding earlier attempts.
 
-<sub>I still think vibe coding is Stack Overflow with a new interface.</sub>
+### [Circuit Workbench](https://github.com/Nitir4/kicad-simulator)
+
+A desktop schematic editor and circuit simulator with KiCad import and ngspice support. It lets me edit a circuit, inspect waveforms, compare saved traces and record measurements in the same workspace. The work also covers checking numerical resolution and preserving the circuit and analysis settings with each reading.
+
+## Other projects
+
+### [BioSonic](https://github.com/Nitir4/BioSonic3)
+
+An audio-classification project for identifying animal species from recordings. The PyTorch model runs behind a FastAPI service, with a React dashboard for viewing predictions and activity across recording zones. Audio is converted into mel spectrograms before inference.
+
+### [Septoctor](https://github.com/Nitir4/Septoctor)
+
+A neonatal sepsis risk-prediction prototype with a web interface for entering clinical data and uploading reports. It includes clinician and hospital dashboards, with prediction requests handled by a separate model API.
+
+### [Linear Algebra Matlab](https://github.com/Nitir4/Linear-Algebra-Matlab)
+
+Course projects covering image compression, noise filtering and face recognition using PCA and SVD. The repository includes MATLAB scripts and small interfaces for trying the methods on images. It was a way to work through what matrix decompositions actually do beyond the calculations on paper.
+
+### [ESP32 Air Drums](https://github.com/Nitir4/ESP32-Air-Drums)
+
+A wireless drum system built with friends using ESP32s and MPU6050 motion sensors. The firmware sends drum events over Wi-Fi or Bluetooth to a Python desktop application that plays the sounds. The repository includes firmware, the receiver and tools for checking latency.
+
+### [Yog-Sothoth](https://github.com/Nitir4/Yog-Sothoth)
+
+A command-line and desktop tool for managing accounts and local conversation history across coding CLIs. It keeps account data in separate directories and handles switching between them, with desktop interfaces and packages for Linux, Windows and macOS.
+
+## Tools I use
+
+- **Languages:** Python, C/C++, JavaScript, TypeScript, MATLAB and SQL.
+- **Applications:** React, Next.js, FastAPI, Electron and Qt.
+- **Data and machine learning:** PyTorch, NumPy, librosa and OpenCV.
+- **Hardware and circuits:** ESP32, Arduino, MicroPython, KiCad and ngspice.
+- **Development:** Linux, Git, Docker, CMake, pytest and Playwright.
+
+## Outside code
+
+I'm a big fan of comic books, anime and movie series. I especially like Nightwing, The Sandman and cosmic horror. The banner is from Tom Taylor's Nightwing run, with art by Bruno Redondo and Adriano Lucas.
+
+I've also used Balatro cards in my desktop theme. A lot of my wallpapers and project names come from the books and games I like.
+
+## Contact
+
+[Email](mailto:er.ritsun@gmail.com) · [LinkedIn](https://linkedin.com/in/ritin-sundriyal-895608326) · [GitHub](https://github.com/Nitir4)
