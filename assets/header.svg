@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ritin Sundriyal · Nitir4</title>
+  <desc id="desc">An ink-dark bookplate with a moonlit doorway, constellations, circuit-like lines and a small red playing card. Code, circuits and comics.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="0.5">
+      <stop offset="0" stop-color="#10131d"/>
+      <stop offset="0.6" stop-color="#171623"/>
+      <stop offset="1" stop-color="#252033"/>
+    </linearGradient>
+    <linearGradient id="door" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#38334c"/>
+      <stop offset="1" stop-color="#151621"/>
+    </linearGradient>
+    <mask id="crescent">
+      <circle cx="955" cy="143" r="25" fill="white"/>
+      <circle cx="967" cy="133" r="24" fill="black"/>
+    </mask>
+    <clipPath id="page"><rect width="1280" height="360" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#page)">
+    <rect width="1280" height="360" fill="url(#night)"/>
+    <rect x="22" y="22" width="1236" height="316" rx="5" fill="none" stroke="#d6c5a4" stroke-opacity="0.22"/>
+    <path d="M44 64V44h20 M1216 44h20v20 M44 296v20h20 M1216 316h20v-20" fill="none" stroke="#d6c5a4" stroke-opacity="0.6"/>
+
+    <!-- The name stays readable as the banner scales down on a profile page. -->
+    <g fill="#ece3d2">
+      <text x="80" y="88" font-family="'DejaVu Sans Mono',monospace" font-size="15" letter-spacing="4" fill="#c7b796">NITIR4</text>
+      <text x="75" y="204" font-family="Georgia,'DejaVu Serif',serif" font-size="112">Ritin</text>
+      <text x="83" y="246" font-family="'DejaVu Sans Mono',monospace" font-size="19" letter-spacing="6">SUNDRIYAL</text>
+      <text x="83" y="301" font-family="'DejaVu Sans Mono',monospace" font-size="15" letter-spacing="2" fill="#c7b796">CODE / CIRCUITS / COMICS</text>
+    </g>
+    <path d="M83 267H640l20-20h45" fill="none" stroke="#baa681" stroke-opacity="0.35"/>
+    <circle cx="708" cy="247" r="3" fill="none" stroke="#baa681" stroke-opacity="0.65"/>
+
+    <!-- A constellation doubles as a little trace on a circuit board. -->
+    <g fill="none" stroke="#b5a6c9" stroke-width="1" stroke-opacity="0.3">
+      <path d="m656 102 46-35 49 18 26-35 49 22"/>
+      <path d="m1091 78 48 26 40-21 31 46-22 34"/>
+      <circle cx="702" cy="67" r="4"/>
+      <circle cx="777" cy="50" r="3"/>
+      <circle cx="1139" cy="104" r="4"/>
+    </g>
+    <g fill="#e5d6bb">
+      <circle cx="656" cy="102" r="2"/><circle cx="751" cy="85" r="2"/>
+      <circle cx="826" cy="72" r="2"/><circle cx="1091" cy="78" r="2"/>
+      <circle cx="1179" cy="83" r="2"/><circle cx="1210" cy="129" r="2"/>
+      <circle cx="1188" cy="163" r="2"/>
+    </g>
+
+    <!-- An open arch into the night; all artwork is self-contained vector. -->
+    <path d="M864 280V151a91 91 0 0 1 182 0v129" fill="none" stroke="#bba787" stroke-width="1" stroke-opacity="0.35"/>
+    <path d="M876 280V151a79 79 0 0 1 158 0v129Z" fill="url(#door)" stroke="#cbbb9d" stroke-width="1.5"/>
+    <path d="M888 279V152a67 67 0 0 1 134 0v127" fill="none" stroke="#cbbb9d" stroke-opacity="0.25"/>
+    <circle cx="955" cy="143" r="25" fill="#e6d8b9" mask="url(#crescent)"/>
+    <g fill="#e6d8b9">
+      <circle cx="914" cy="178" r="1.5"/><circle cx="985" cy="191" r="1"/>
+      <circle cx="937" cy="213" r="1"/><circle cx="1000" cy="155" r="1.2"/>
+      <circle cx="911" cy="238" r="1"/><circle cx="980" cy="247" r="1.4"/>
+      <circle cx="936" cy="104" r="1"/><circle cx="999" cy="224" r="1"/>
+    </g>
+    <path d="M876 280h158v9H876z M862 290h186v9H862z M846 300h218v9H846z" fill="#171723" stroke="#cbbb9d" stroke-opacity="0.65"/>
+    <path d="M904 310 889 338 M937 310 934 338 M974 310 978 338 M1007 310 1023 338" fill="none" stroke="#cbbb9d" stroke-opacity="0.2"/>
+
+    <g transform="translate(1141 225) rotate(13)">
+      <rect x="-28" y="-40" width="56" height="80" rx="4" fill="#201d2a" stroke="#cbbb9d" stroke-opacity="0.65"/>
+      <path d="m0-17 11 17L0 17-11 0Z" fill="#cf736b"/>
+      <path d="m-17-29 3 5-3 5-3-5Z m34 48 3 5-3 5-3-5Z" fill="#cf736b"/>
+    </g>
+    <g stroke="#d8c8a9" stroke-linecap="round">
+      <path d="M800 169v12m-6-6h12 M1081 215v10m-5-5h10 M590 172v8m-4-4h8"/>
+    </g>
+    <g fill="#d8c8a9" opacity="0.5">
+      <circle cx="567" cy="67" r="1"/><circle cx="623" cy="214" r="1"/>
+      <circle cx="741" cy="153" r="1"/><circle cx="814" cy="264" r="1"/>
+      <circle cx="1087" cy="144" r="1"/><circle cx="1201" cy="268" r="1"/>
+      <circle cx="763" cy="294" r="1"/><circle cx="1111" cy="299" r="1"/>
+    </g>
+  </g>
+</svg>
